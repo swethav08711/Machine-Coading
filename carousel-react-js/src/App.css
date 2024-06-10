@@ -1,0 +1,17 @@
+
+.carousel-container{
+    height: 40vh;
+}
+.carousel{
+    position: relative;
+    height: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+.image-container{
+    display: flex;
+    height: 100%;
+}
+.image{
+    height: 100%;
+}
